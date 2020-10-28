@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "967643062072",
+    "firebase_url": "https://fire-9baea.firebaseio.com",
+    "project_id": "fire-9baea",
+    "storage_bucket": "fire-9baea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967643062072:android:c66ad2ce2fbcfcbd71ebcd",
+        "android_client_info": {
+          "package_name": "com.muktadirsony.fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967643062072-6iec6iidmb7j97ot3e6iebrp8t098na6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muktadirsony.fire",
+            "certificate_hash": "0f7f6159c167536fe39cd1f4b3c57fb2a05bef8f"
+          }
+        },
+        {
+          "client_id": "967643062072-0fmd4s18522radqcq6fb7ldm2ss9fjo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkVU10y4dpJ2rsL5h287jU22GCW0VDs9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967643062072-0fmd4s18522radqcq6fb7ldm2ss9fjo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
